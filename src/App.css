@@ -32,6 +32,16 @@
 	text-align: center;
 } 
 
+.LeftTextField {
+	text-align: left;
+} 
+
+.borderMargin{
+	border: 5px solid black;
+	border-radius: 20px;
+	padding: 10px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
